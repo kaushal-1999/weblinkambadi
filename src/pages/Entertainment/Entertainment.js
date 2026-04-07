@@ -1,5 +1,6 @@
 import "./Entertainment.css";
 import { Tv, PlayCircle } from "lucide-react";
+import promovideo from "../../assets/promo.mp4";
 
 const plans = [
     {
@@ -82,7 +83,7 @@ function Entertainment() {
             {/* 🎥 VIDEO */}
             <div className="iptv-preview">
                 <video
-                    src="https://cdn.coverr.co/videos/coverr-global-network-connection-5176/1080p.mp4"
+                    src={promovideo}
                     autoPlay
                     loop
                     muted
@@ -115,7 +116,7 @@ function Entertainment() {
                         </ul>
 
                         <a
-                            href="https://wa.me/919209033491?text=Hi, I want OTT/IPTV service"
+                            href="https://wa.me/918550934568?text=Hi, I want OTT/IPTV service"
                             target="_blank"
                             rel="noreferrer"
                         >

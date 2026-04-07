@@ -1,5 +1,5 @@
 import "./Hero.css";
-
+import heroImg from "../../assets/hero.png";
 function Hero() {
     return (
         <section className="hero">
@@ -43,7 +43,7 @@ function Hero() {
 
                 <div className="hero-image">
                     <img 
-                        src="https://media.licdn.com/dms/image/v2/D5612AQHyZRYgXPjpDQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1701169672414?e=2147483647&v=beta&t=ivRcAV-UwB5cCKmfmJVGA26T23YIoVwTfJVcykoFgso"
+                        src={heroImg}
                         alt="fiber internet"
                     />
                 </div>

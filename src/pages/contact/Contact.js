@@ -79,7 +79,7 @@ function Contact() {
 
           {/* 📞 WhatsApp Button */}
           <a
-            href={`https://wa.me/919209033491?text=${encodeURIComponent(whatsappMsg)}`}
+            href={`https://wa.me/918550934568?text=${encodeURIComponent(whatsappMsg)}`}
             target="_blank"
             rel="noreferrer"
             className="whatsapp-btn"
@@ -94,9 +94,9 @@ function Contact() {
 
           <h3>Contact Details</h3>
 
-          <p><strong>Owner:</strong> Prashant Adhikari</p>
-          <p><strong>Email:</strong> yourmail@example.com</p>
-          <p><strong>Mobile:</strong> +91 9209033491</p>
+          <p><strong>Owner:</strong> Prashant Adhikari.</p>
+          <p><strong>Email:</strong> weblinkambadi@gmail.com</p>
+          <p><strong>Mobile:</strong> +91 8550934568</p>
 
           {/* 🌍 LIVE MAP (Ambadi) */}
           <div className="map">
@@ -113,7 +113,7 @@ function Contact() {
 
       {/* 💬 FLOATING WHATSAPP */}
       <a
-        href="https://wa.me/919209033491"
+        href="https://wa.me/918550934568?text=Hi, I want to know more about your internet services"
         className="floating-whatsapp"
         target="_blank"
         rel="noreferrer"

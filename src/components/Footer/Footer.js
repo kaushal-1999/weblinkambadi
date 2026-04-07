@@ -10,7 +10,7 @@ function Footer() {
 
                 {/* LEFT BRAND */}
                 <div className="footer4-brand">
-                    <h2><Wifi size={20} /> SearchNet Ambadi</h2>
+                    <h2><Wifi size={20} /> WEBLINK ONLINE SOLUTIONS</h2>
                     <p>
                         Reliable Fiber Internet | IPTV | OTT Services.
                         Delivering high-speed connectivity with premium entertainment.
@@ -58,7 +58,7 @@ function Footer() {
 
             {/* 📍 CONTACT STRIP */}
             <div className="footer4-contact">
-                <p><Mail size={15} /> support@searchnet.com</p>
+                <p><Mail size={15} /> weblinkambadi@gmail.com</p>
                 <p><MapPin size={15} /> Ambadi, Maharashtra</p>
             </div>
 

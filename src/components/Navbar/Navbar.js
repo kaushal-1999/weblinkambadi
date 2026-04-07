@@ -21,7 +21,7 @@ function Navbar() {
 
     return (
         <nav className="navbar">
-            <div className="logo">Searchnet Ambadi</div>
+            <div className="logo">WEBLINK ONLINE SOLUTIONS</div>
 
             <div className={`links ${open ? "active" : ""}`}>
                 {navLinks.map((link) => (
